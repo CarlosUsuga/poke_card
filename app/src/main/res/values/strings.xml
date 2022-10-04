@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pokemon Card</string>
+
+    <string name="init_name_app">Pokemon Card</string>
+    <string name="name_pokemon">Nombre del Pokemon</string>
+    <string name="back">Atras</string>
+    <string name="habilidad_pokemon">Habilidades</string>
+    <string name="poke_movimiento">Movimientos Pokemon</string>
+    <string name="text_guardar">Guardar</string>
+</resources>
